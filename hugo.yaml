@@ -1,0 +1,27 @@
+baseURL: "https://kitchengearreview.pages.dev/"
+locale: "en-us"
+title: "Kitchen Gear Review"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+enableEmoji: true
+
+params:
+  env: production
+  description: "Unbiased reviews and comparisons of kitchen appliances — air fryers, blenders, bread makers, coffee machines, ice makers, and more."
+  author: "Kitchen Gear Review Team"
+  
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowPostNavLinks: true
+  
+  homeInfoParams:
+    Title: "Kitchen Gear Review 🍳"
+    Content: "Straightforward, no-BS reviews of kitchen appliances. We compare specs, test performance, and help you find the best gear for your kitchen."
+
+  socialIcons: []
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
