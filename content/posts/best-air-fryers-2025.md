@@ -65,7 +65,7 @@ The Ninja AF101 is the air fryer that put Ninja on the map, and it's still the b
 
 ### 2. Cosori Pro LE 5.0-Quart — Best Large Basket Air Fryer
 
-{{< affiliate-link asin="B093GJLY4F" >}}
+{{< affiliate-link asin="B0936FGLQS" >}}
 
 The Cosori Pro LE takes the popular Cosori formula and refines it — the 5.0-quart square basket fits a whole 4-pound chicken or a full bag of frozen fries in a single layer. 1500 watts of power paired with Cosori's EvenHeat technology means you get consistent results without shaking halfway through. The tempered glass touchscreen panel is responsive, intuitive, and actually looks premium on the counter.
 
