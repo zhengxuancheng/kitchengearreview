@@ -30,7 +30,7 @@ Each countertop ice maker was evaluated on:
 
 ### 1. GE Profile Opal 2.0 — Best Nugget Ice Maker
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08KFLRPWM" >}}
 
 The GE Profile Opal 2.0 is the undisputed king of nugget ice. It produces the soft, chewable "Sonic-style" ice that nugget ice fanatics obsess over. The 2.0 version improved on the original with a larger reservoir, better self-cleaning, and an optional side tank that doubles capacity to 3 gallons — enough for over 24 hours of continuous production.
 
@@ -58,7 +58,7 @@ The GE Profile Opal 2.0 is the undisputed king of nugget ice. It produces the so
 
 ### 2. Frigidaire EFIC189 — Best Overall Bullet Ice Maker
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07XPR9CMW" >}}
 
 The Frigidaire EFIC189 hits the sweet spot of performance, reliability, and price. It produces bullet-shaped ice in two sizes (small and large), cranks out 26 lbs per day, and does it from a compact footprint that fits easily on a counter. Frigidaire's brand reputation for appliances gives it an edge in long-term reliability.
 
@@ -85,7 +85,7 @@ The Frigidaire EFIC189 hits the sweet spot of performance, reliability, and pric
 
 ### 3. Silonn SLIM01B — Best Budget Ice Maker
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08JVPQM9J" >}}
 
 The Silonn SLIM01B proves you don't need to spend a lot to get reliable ice. At a fraction of the price of premium models, it delivers 26 lbs of bullet ice per day with a surprisingly quiet compressor. It's the #1 bestseller on Amazon for a reason — it just works, and it's affordable enough to be an impulse buy.
 
@@ -112,7 +112,7 @@ The Silonn SLIM01B proves you don't need to spend a lot to get reliable ice. At 
 
 ### 4. EUHOMY IM-01 — Best With Self-Cleaning
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B09WHDCFSJ" >}}
 
 The EUHOMY IM-01 has become a cult favorite on Amazon for good reason — it combines rapid ice production with a genuinely useful self-cleaning mode that most competitors at this price point lack. The 5-layer insulation also helps ice last longer before melting back into the reservoir.
 
@@ -139,7 +139,7 @@ The EUHOMY IM-01 has become a cult favorite on Amazon for good reason — it com
 
 ### 5. Igloo ICEB26 — Best for Portable Use
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00BPE8V9I" >}}
 
 Igloo is synonymous with coolers, so it's no surprise their countertop ice maker is a solid performer. The ICEB26 is lightweight, compact, and has a built-in carry handle — making it the easiest to transport for camping trips, tailgating, and RV life. It produces 26 lbs of bullet ice daily and does it without fuss.
 
@@ -166,7 +166,7 @@ Igloo is synonymous with coolers, so it's no surprise their countertop ice maker
 
 ### 6. NewAir AI-100 — Best Portable Nugget Ice Maker
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08J7XQ4NW" >}}
 
 The NewAir AI-100 is the most credible alternative to the GE Opal for nugget ice lovers. It's more compact, more affordable, and still produces that soft, chewable nugget ice that's perfect for cocktails, iced coffee, and snacking. If the Opal's price makes you wince, this is your machine.
 
@@ -194,7 +194,7 @@ The NewAir AI-100 is the most credible alternative to the GE Opal for nugget ice
 
 ### 7. Luma Comfort IM200 — Best Clear Ice Maker
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00EUKXC5A" >}}
 
 If you want restaurant-quality clear ice cubes — the kind that look great in a whiskey glass and melt slowly — the Luma Comfort IM200 is your machine. Unlike bullet and nugget makers, it produces large, crystal-clear rectangular cubes using a different freezing technology that eliminates cloudiness from trapped air and impurities.
 

@@ -29,7 +29,7 @@ Each bread maker was evaluated on:
 
 ### 1. Cuisinart CBK-110P1 Compact Bread Maker — Best Overall
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00MVSR8TG" >}}
 
 The Cuisinart CBK-110P1 is the standout in the budget category — a compact 1-pound loaf machine that consistently produces excellent bread. It offers 12 preprogrammed settings including white, whole wheat, gluten-free, and even a knead-only dough cycle for pizza and pasta.
 
@@ -55,7 +55,7 @@ The Cuisinart CBK-110P1 is the standout in the budget category — a compact 1-p
 
 ### 2. Hamilton Beach 29882 HomeBaker — Best Value
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B01MYNVVQ4" >}}
 
 Hamilton Beach's HomeBaker is the budget workhorse — it does the basics extremely well at a price that's hard to beat. With 12 cycles and a 2-pound capacity, it's the best choice for families on a tight budget.
 
@@ -81,7 +81,7 @@ Hamilton Beach's HomeBaker is the budget workhorse — it does the basics extrem
 
 ### 3. Zojirushi BB-HAC10 Mini Bread Maker — Best Compact
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0067QSU0O" >}}
 
 Zojirushi is the premium name in bread makers, and the BB-HAC10 brings their quality to a smaller, more affordable package. It makes 1-pound loaves — the perfect size for one or two people.
 
@@ -107,7 +107,7 @@ Zojirushi is the premium name in bread makers, and the BB-HAC10 brings their qua
 
 ### 4. Oster ExpressBake CKSTBRTW20 — Fastest Bread
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B003GXIQUS" >}}
 
 The Oster ExpressBake lives up to its name — it can produce a loaf in under an hour using the ExpressBake cycle. For impatient bakers or last-minute dinner bread, it's a game-changer.
 
@@ -133,7 +133,7 @@ The Oster ExpressBake lives up to its name — it can produce a loaf in under an
 
 ### 5. KBS MBF-011 Stainless Steel Bread Maker — Best Looking
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07L3BBLMG" >}}
 
 The KBS MBF-011 is the best-looking budget bread maker on the market, with a full stainless steel body that won't look out of place in a modern kitchen. It's also packed with features — 17 programs including yogurt, jam, and cake.
 
@@ -160,7 +160,7 @@ The KBS MBF-011 is the best-looking budget bread maker on the market, with a ful
 
 ### 6. Neretva Bread Maker — Best With Auto Dispenser
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0C7KH9XPW" >}}
 
 Neretva is a newer brand making waves with feature-rich bread makers at aggressive prices. Their automatic fruit and nut dispenser releases mix-ins at the right time during the knead cycle — no more hovering over the machine waiting for the beep.
 

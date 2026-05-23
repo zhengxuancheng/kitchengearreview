@@ -38,7 +38,7 @@ The non-stick coating on the basket or tray is the single biggest factor in how 
 
 ### 1. Ninja AF101 — Best Overall Basket Air Fryer
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07FDJMC9Q" >}}
 
 The Ninja AF101 is the air fryer that put Ninja on the map, and it's still the best all-around basket air fryer in 2025. With a 4-quart capacity, 1550 watts of power, and a wide temperature range (105°F–400°F), it handles everything from dehydrating jerky to crisping frozen fries. The ceramic-coated, non-stick basket is dishwasher safe and has held up impressively well in our long-term testing.
 
@@ -65,7 +65,7 @@ The Ninja AF101 is the air fryer that put Ninja on the map, and it's still the b
 
 ### 2. Cosori Pro LE 5.0-Quart — Best Large Basket Air Fryer
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B093GJLY4F" >}}
 
 The Cosori Pro LE takes the popular Cosori formula and refines it — the 5.0-quart square basket fits a whole 4-pound chicken or a full bag of frozen fries in a single layer. 1500 watts of power paired with Cosori's EvenHeat technology means you get consistent results without shaking halfway through. The tempered glass touchscreen panel is responsive, intuitive, and actually looks premium on the counter.
 
@@ -92,7 +92,7 @@ The Cosori Pro LE takes the popular Cosori formula and refines it — the 5.0-qu
 
 ### 3. Instant Vortex Plus 6-in-1 — Best Smart Features
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07VM26X5J" >}}
 
 Instant Brands brought their Instant Pot expertise to the air fryer space, and the Vortex Plus 6-in-1 is a standout. With a 6-quart basket, 1700 watts, and ClearCook — a window in the basket so you can monitor food without opening the drawer — it's designed for people who want maximum visibility and control. The companion app sends notifications when your food is done and provides guided recipes.
 
@@ -119,7 +119,7 @@ Instant Brands brought their Instant Pot expertise to the air fryer space, and t
 
 ### 4. Ninja DZ201 Foodi 8-Quart DualZone — Best Dual-Zone Air Fryer
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B089QJF4CF" >}}
 
 The Ninja DZ201 Foodi DualZone solves the biggest frustration with single-basket air fryers: you can't cook two different foods at different temperatures at the same time. With two independent 4-quart baskets (8 quarts total), you can air fry chicken wings at 400°F in one basket and roast broccoli at 375°F in the other — and the Smart Finish feature syncs them to finish at the exact same time.
 
@@ -146,7 +146,7 @@ The Ninja DZ201 Foodi DualZone solves the biggest frustration with single-basket
 
 ### 5. Cuisinart TOA-60 Air Fryer Toaster Oven — Best Oven-Style Air Fryer
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B01M0AWTF0" >}}
 
 The Cuisinart TOA-60 is an oven-style air fryer that does far more than air fry. It toasts, bakes, broils, and convection-bakes too — effectively replacing your toaster, toaster oven, and air fryer with one appliance. The 1800-watt heating system and spacious interior can fit a 4-pound chicken, a 12-inch pizza, or six slices of toast. If counter space is at a premium and you want to consolidate appliances, this is the one.
 
@@ -173,7 +173,7 @@ The Cuisinart TOA-60 is an oven-style air fryer that does far more than air fry.
 
 ### 6. GoWISE USA GW44800-O — Best Budget Air Fryer
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B06W5GPDNC" >}}
 
 The GoWISE USA GW44800-O proves you don't need to spend $100+ to get a capable air fryer. At 5.8 quarts with 1700 watts and 8 preset programs, it matches or exceeds specs from models costing twice as much. The touchscreen is responsive, the basket has an ergonomic cool-touch handle, and the included recipe book is surprisingly good for a budget model.
 
