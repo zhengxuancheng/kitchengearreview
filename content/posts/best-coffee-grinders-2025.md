@@ -14,7 +14,7 @@ But the grinder market in 2025 is sprawling: blade grinders that cost $20, premi
 
 ## What to Look For in a Coffee Grinder
 
-Before we dive into the picks, here's what actually matters when shopping for a coffee grinder in 2025.
+Here's what actually matters when shopping for a coffee grinder in 2025.
 
 ### Burr vs. Blade: The Only Debate That Matters
 
@@ -281,10 +281,10 @@ The right coffee grinder depends entirely on how you brew and how much you care 
 
 - **Best Budget:** The **Cuisinart DBM-8** is a true burr grinder for under $50. It's loud and messy, but it's a legitimate upgrade from any blade grinder.
 
-- **Best for Pour-Over:** The **Fellow Ode Gen 2** is a precision instrument for filter coffee. Near-zero retention, stunning design, and 64mm flat burrs that produce exceptionally clean, flavorful cups.
+- **Best for Pour-Over:** The **Fellow Ode Gen 2** is a precision instrument for filter coffee. Near-zero retention, a design that actually looks good on the counter, and 64mm flat burrs that produce exceptionally clean, flavorful cups.
 
 - **Best Manual Grinder:** The **1Zpresso JX-Pro** delivers grind quality that competes with $300+ electric grinders for a fraction of the price — in a portable, all-metal package.
 
-A good grinder is the foundation of great coffee at home. Whether you spend $50 or $350, moving from pre-ground to freshly ground beans — and from a blade to a burr — is the single biggest leap in coffee quality you'll ever make. Once you taste the difference, there's no going back.
+A good grinder is the foundation of great coffee at home. Whether you spend $50 or $350, fresh grounds from a burr grinder beat pre-ground from the supermarket every time. The jump from blade to burr is the kind of upgrade you notice in the first sip.
 
 *We may earn a commission if you purchase through links on this page — at no extra cost to you.*

@@ -9,7 +9,7 @@ description: "Looking for the best countertop ice maker in 2025? We tested and c
 draft: false
 ---
 
-Running out of ice mid-party is a special kind of kitchen frustration. And if your freezer's built-in ice maker can't keep up — or you don't have one at all — a countertop ice maker is the fix. These compact machines churn out fresh ice in as little as 6 minutes, no plumbing required.
+Running out of ice mid-party is a special kind of kitchen frustration. If your freezer's built-in ice maker can't keep up, or you don't have one at all, a countertop ice maker is the fix. These compact machines churn out fresh ice in as little as 6 minutes, no plumbing required.
 
 In 2025, the countertop ice maker market is packed with options across three distinct ice types: nugget (chewable), bullet (classic hollow cylinders), and clear (restaurant-style cubes). We tested and compared the top models to help you find the right one for your needs, whether that's daily use, entertaining, or taking it on the road.
 

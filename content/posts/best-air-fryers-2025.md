@@ -10,11 +10,11 @@ draft: false
 
 Air fryers have gone from a niche gadget to a kitchen essential in just a few years — and for good reason. They crisp up fries, roast vegetables, and even bake small batches of cookies using a fraction of the oil (and time) of a conventional oven. But with dozens of models on the market, picking the right one can be overwhelming.
 
-In 2025, the air fryer landscape splits into three main categories: classic **basket-style** air fryers (compact, fast, and affordable), **oven-style** air fryers (larger capacity, more versatile), and **dual-zone** models (cook two foods at once, each with their own settings). We tested and compared the top contenders across all three categories to help you find the right one for your cooking style, household size, and budget — from under $50 to around $200.
+In 2025, air fryers fall into three main categories: classic **basket-style** models (compact, fast, and affordable), **oven-style** units (larger capacity, more versatile), and **dual-zone** machines (cook two foods at once, each with their own settings). We tested the best in each category to help you find the right one for your cooking style, household size, and budget — from under $50 to around $200.
 
 ## What to Look For in an Air Fryer
 
-Before diving into our top picks, here are the key factors to consider when shopping for an air fryer in 2025:
+Here are the key factors to consider when shopping for an air fryer in 2025:
 
 ### Capacity
 
@@ -237,7 +237,7 @@ Most air fryers draw 1500–1800 watts while actively cooking. For a typical 15�
 
 ## The Bottom Line
 
-The air fryer market in 2025 offers something for every kitchen, budget, and cooking style:
+After testing these six air fryers across every category and price point, here's where we landed:
 
 - **Best Overall:** The **Ninja AF101** is the goldilocks air fryer — the right size, right price, and right performance for most households. If you're buying your first air fryer, start here.
 

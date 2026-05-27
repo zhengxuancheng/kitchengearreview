@@ -11,7 +11,7 @@ draft: false
 
 Rice is deceptively hard to cook on a stovetop. The difference between perfect, fluffy grains and a gummy, scorched mess is about 90 seconds of inattention. A rice cooker removes the guesswork — and the best models use fuzzy logic technology that adjusts temperature and cooking time based on what's actually happening inside the pot.
 
-We tested 6 of the best rice cookers in 2025 from $20 to $200. Here's what makes some worth the investment and others perfectly fine for the price.
+We tested 6 rice cookers in 2025, from $20 to $200. Some earn their price tag. Others get the job done without one.
 
 ## Top 6 Rice Cookers
 
